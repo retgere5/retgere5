@@ -1,7 +1,7 @@
 # 👋 Merhaba, Ben Muhammed!
 
 ## 🎓 Hakkımda
-18 yaşındayım ve lise son sınıf öğrencisiyim. Programlama dünyasında kendimi geliştirmeye çalışıyor ve öğrendiklerimi projelerle pekiştiriyorum.
+19 yaşındayım. Programlama dünyasında kendimi geliştirmeye çalışıyor ve öğrendiklerimi projelerle pekiştiriyorum.
 
 ## 💻 Teknoloji Yığınım
 
